@@ -10,7 +10,7 @@ spring:
     host: 192.168.1.105
 eureka:
   client:
-    fetch-registry: false
+    fetch-registry: false # 不拉取服务列表
     register-with-eureka: false  # 不注册自己
     service-url:
       defaultZone: http://127.0.0.1:10086/eureka
