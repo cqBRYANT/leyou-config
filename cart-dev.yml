@@ -39,4 +39,4 @@ hystrix:
 leyou:
   jwt:
     cookieName: LY_TOKEN
-    pubKeyPath: G:\\tmp\\rsa\\rsa.pub # 公钥地址
+    pubKeyPath: N:\\javaDevlop\\project\\leyou-note\\rsa\\rsa.pub # 公钥地址
