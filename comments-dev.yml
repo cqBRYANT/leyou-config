@@ -7,7 +7,7 @@ spring:
     name: comments-service
   data:
     mongodb:
-      host: 192.168.19.121
+      host: 192.168.1.105
       database: leyoudb
   datasource:
     url: jdbc:mysql://192.168.1.106:3306/leyou?characterEncoding=UTF-8&useSSL=false
