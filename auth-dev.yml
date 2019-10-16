@@ -24,7 +24,7 @@ leyou:
     secret: leyou@Login(Auth}*^31)&heiMa% # 登录校验的密钥
     pubKeyPath: N:\\javaDevlop\\project\\leyou-note\\rsa\\rsa.pub # 公钥地址
     priKeyPath: N:\\javaDevlop\\project\\leyou-note\\rsa\\rsa.pri # 私钥地址
-    expire: 30 # 过期时间,单位分钟
+    expire: 3600 # 过期时间,单位秒
     cookieName: LY_TOKEN
     cookieMaxAge: 30
 
